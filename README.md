@@ -1,9 +1,12 @@
-## Hi there 👋
+## Boas vindas ao meu perfil💙
 
-<!--
-**estudantealuraG17/estudantealuraG17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou desenvolvendo scratch e javascript,além do alura
 
-Here are some ideas to get you started:
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
+
+
+https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
